@@ -5,6 +5,9 @@ logs
 *.log
 npm-debug.log*
 
+# WebStorm
+.idea
+
 # Runtime data
 pids
 *.pid
